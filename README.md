@@ -18,4 +18,4 @@ git clone https://github.com/Haletran/Wallpapers.git
 
 ### Windows 
 
-Just download it with the green download button.
+Just download them with the green download button.
