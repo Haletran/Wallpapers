@@ -8,6 +8,9 @@ These wallpapers come from various websites :
 - <a href="https://www.reddit.com/" >Reddit</a>
 - <a href="https://www.deviantart.com/" >DeviantArt</a>
 
+
+And I also made a colors folder that contains some 1920x1080 wallpapers with one color each. Made by myself in FIGMA
+
 ## Download
 
 ### Linux
