@@ -13,12 +13,8 @@ And I also made a colors folder that contains some 1920x1080 wallpapers with one
 
 ## Download
 
-### Linux
-
-```
+```bash
+# Clone this repository
 git clone https://github.com/Haletran/Wallpapers.git
 ```
-
-### Windows 
-
-Just download them with the green download button.
+> Or use this link : <a href="https://github.com/Haletran/Wallpapers/archive/refs/heads/main.zip">Download</a>
